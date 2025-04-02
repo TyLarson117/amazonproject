@@ -11,12 +11,11 @@ import io
 import sys
 
 # --- 1. Database Configuration ---
-# !!! IMPORTANT: Replace with your actual MySQL credentials !!!
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'root',      # Replace with your MySQL username
-    'password': 'admin', # Replace with your MySQL password
-    'database': 'AmazonProject'     # Should match your database name
+    'user': 'root',      
+    'password': 'La05311992!@', 
+    'database': 'amazonproject'  
 }
 
 # --- 2. Database Utility ---
